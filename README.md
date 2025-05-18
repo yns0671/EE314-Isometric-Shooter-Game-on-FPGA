@@ -4,7 +4,7 @@
 A Verilog-based isometric shooter game on FPGA, inspired by *Space Invaders*. Built for **EE314 - Digital Electronics Lab (Spring 2024)**.
 
 ## 📹 Project Demo
-Watch the video here: [Project Demo Video]([https://your-video-link.com](https://youtu.be/cZ6WI319tJM))
+Watch the video here: [Project Demo Video](https://youtu.be/cZ6WI319tJM)
 
 ## 🚀 Features
 - **Spaceship**: Rotates (22.5° steps), fires projectiles
